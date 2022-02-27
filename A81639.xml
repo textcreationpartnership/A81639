@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dangerous and bloudy fight upon the coast of Cornwal between the English and the Dutch, on Thursday last; with the full particulars thereof; the manner of their engagement; the great execution done on both sides; and 17 of the Hollanders ships brought into Plymouth. Sent to the high and honourale [sic] Councel of State, on Sunday last, October 24. Together with a narrative of the King of Denmarks proceedings against the English: the raising of a great army in France their resolution and design, and the landing of the Dutch near Yarmouth; the rising of the country with clubs, fowling pieces, and longpikes; a bloudy fight thereupon, and the pursuing of the Dutch to the sea-coast, and the number killed and taken prisoners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81639</idno>
+            <idno type="STC">Wing D195</idno>
+            <idno type="STC">Thomason E678_20</idno>
+            <idno type="STC">ESTC R206801</idno>
+            <idno type="EEBO-CITATION">99865907</idno>
+            <idno type="PROQUEST">99865907</idno>
+            <idno type="VID">166335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166335)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E678[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dangerous and bloudy fight upon the coast of Cornwal between the English and the Dutch, on Thursday last; with the full particulars thereof; the manner of their engagement; the great execution done on both sides; and 17 of the Hollanders ships brought into Plymouth. Sent to the high and honourale [sic] Councel of State, on Sunday last, October 24. Together with a narrative of the King of Denmarks proceedings against the English: the raising of a great army in France their resolution and design, and the landing of the Dutch near Yarmouth; the rising of the country with clubs, fowling pieces, and longpikes; a bloudy fight thereupon, and the pursuing of the Dutch to the sea-coast, and the number killed and taken prisoners.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton, and are to be sold at the Royal Exchange in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166335:1" rendition="simple:additions"/>
+            <p>A dangerous and BLOVDY FIGHT Upon the Coaſt of CORNWAL Between The Engliſh and the Dutch, On Thurſday laſt; with the full particulars thereof; the manner of their engagement; the great execution done on both ſides; and 17 of the Hollanders ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps brought into Plymouth.</p>
+            <p>SEnt to the High and Honourale Councel of State, on Sun<g ref="char:EOLhyphen"/>day last, <hi>October 24.</hi>
+            </p>
+            <p>Together With a Narrative of the King of Denmarks proceedings a<g ref="char:EOLhyphen"/>gainſt the Engliſh: the raiſing of a great army in France their reſolution and deſign, and the landing of the Dutch near Yarmouth; the riſing of the Coun<g ref="char:EOLhyphen"/>try with Clubs, Fowling-pieces, and Long<g ref="char:EOLhyphen"/>pikes; a bloudy fight thereupon, and the purſuing of the Dutch to the Sea-Coaſt, and the number killed and taken priſoners.</p>
+            <p>LONDON: Printed for George Horton, and are to be ſold at the Royal Exchange in Corn-hill, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166335:2"/>
+            <pb n="3" facs="tcp:166335:2"/>
+            <head>The Proceedings of the King of Denmark Againſt the Engliſh, and a Meſsage from the Engliſh to the Governour of Elſinore.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>ON Thurſday the 9 of September, we ſet ſail to pro<g ref="char:EOLhyphen"/>ceed on our deſign for the Sound, and came to an an<g ref="char:EOLhyphen"/>chor the 20 following, betwixt 6 and 7 at night, two leagues ſhort of Elſinore Caſtle, we ſent the Greyhound up before us with letters to the Governour of Elſinore, and the Admiral which rode near the Caſtle, that they might acquaint the King of our approach, and to what purpoſe: with another letter to the Merchants, and Ma<g ref="char:EOLhyphen"/>ſters of the Engliſh ſhips at Copenhagen, to make their addreſs to his Majeſty, for their more ſpeedy procure<g ref="char:EOLhyphen"/>ment of their ſhips, which were 22 in number, all ſhut up within the Booms at Coppenhagen; but the Grey<g ref="char:EOLhyphen"/>hound was ſtopt a league ſhort of the Caſtle, next mor<g ref="char:EOLhyphen"/>ning
+<pb n="4" facs="tcp:166335:3"/>Captain Ball went up with his boat, and delivered his letters; but while he was gone, the Dutch came and ſeized his man which kept his boat, and caſt him over<g ref="char:EOLhyphen"/>board, and carried her away: but the Governour of the caſtle made them deliver his boat again; we left no means unattempted to get thoſe ſhips out; for we ſent another letter to the Merchants to Petition the King, and a meſsen<g ref="char:EOLhyphen"/>ger of ours likewiſe to him, but all proved fruitleſs, for he would not be ſeen, but ſent two Lords to Elſinore, which I conceive was under a colour; ſo then was Capt. <hi>Adams</hi> and another twice ſent, but could effect nothing, for they inſtead of anſwering our demands; demanded of us, why their Ambaſsadours had not audience in Eng<g ref="char:EOLhyphen"/>land, and that they expected <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Ambaſsadours from us, and whether we had any letters from the State to their King, and why we ſo boldly came ſo near his Majeſties hope and Caſtle, upon their ſtreams, without three weeks warning, all which being impertinent to our buſineſs, we urged for a poſitive anſwer, and the 26 we received a let<g ref="char:EOLhyphen"/>ter from the King, intimating, that he would ſecure them for the Merchants as carefully as he had done, and was re<g ref="char:EOLhyphen"/>ſolved not to deliver them to us.</p>
+            <p>The Engliſhmen belonging to thoſe ſhips, when they ſaw no hopes of their ſhips releaſme<g ref="char:cmbAbbrStroke">̄</g>t, lett them, and came away to us; ſo the 27 we left the Sound, to return to give an account of our proceedings paſt, but by the way God was pleaſed to make us pertakers of a ſad accident, which hapned Thurſday the laſt of September, about 3 of the clock in the morning; the Antelope, commanded by Capt. Ball, ran aſhore on the coaſt of Jutland, and by reaſon ſhe carried the light, we followed ſo near the ſhore, that it was a wonderfull providenceany of us eſcaped, but bleſ<g ref="char:EOLhyphen"/>ſed be God, we all got off, except the ſaid Antelope which is ſunk, but all her men ſaved, ſo had that ſhip likewiſe,
+<pb n="5" facs="tcp:166335:3"/>had they ſteered the courſe that honeſt Captain Ball ſha<g ref="char:EOLhyphen"/>ped them: ſoon after we fell among the Dutch Fiſhers on the Dogger bank, and have taken 16 ſail together, with a man of war, carrying 22 guns, with little loſſe.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter from Paris.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe 15th of this inſtant October thus, his Majeje<g ref="char:EOLhyphen"/>ſties anſwer made to the Collonels and Officers mentioned in our laſt, who were gone from hence as Commiſſioners, the ſubſtance whereof was, that his Ma<g ref="char:EOLhyphen"/>jeſty having reſolved to go to one Province of his King<g ref="char:EOLhyphen"/>dome where it was requiſite; yet upon the humble ad<g ref="char:EOLhyphen"/>dreſſes of his ſaid City he had condeſcended to their re<g ref="char:EOLhyphen"/>queſt for returning to his good City of Paris, which he had appointed to be the munday following.</p>
+                  <p>Madamoiſelle had order to quit her lodgings in the Louvre, which were made ready for the Duke <hi>d' Anjou. Cruſsels</hi> Governour of the Baſtile delivered up his keys and charge to an exempt de gards ſent thither by the King for that end. The King of Scots hath been comple<g ref="char:EOLhyphen"/>mented by the French Court. The Lord Digby is made Governour of the ſaid Baſtile of Paris.</p>
+                  <p>The 19 the Parliament being ſate the Duke of Orleans, acquainted the houſe, that he had received a letter from the Duke d' Anvilie, intimating that his Majeſty did pur<g ref="char:EOLhyphen"/>poſe to be in Paris the munday following; where<g ref="char:EOLhyphen"/>upon it was ordered, that moſt humble thanks ſhould be returned to his Majeſty, but withall to intreat that he would be pleaſed to bring with him an Amniſtia in a due form, and confirmed by this Parliament. The ſame day in the afternoon, returned the ſaid Collonels and other Officers from St. Germans, and with them came
+<pb n="6" facs="tcp:166335:4"/>alſo the Marſhal de Hoſpital, late Governor of Paris, with Monſieur Le Fibure, late Provoſt of Merchants, and alto<g ref="char:EOLhyphen"/>gether met in the evening at the Town houſe, where, in the full Aſſembly there was read the Kings Letter con<g ref="char:EOLhyphen"/>cerning his Majeſties comming to Paris, as alſo the diſ<g ref="char:EOLhyphen"/>miſſing of the Guards that were kept at the City gates; which was accordingly executed on the twentieth.</p>
+                  <p>The 20 the ſeveral Preſidents and Counſellors of the Parliament, all except eight or nine, received expreſſe or<g ref="char:EOLhyphen"/>der from the King, to repair to the King at the Louvre upon the 22, where his Majeſty would be in his ſeat of Juſtice. The Duke of Guiſe is alſo gone to the Court, having made a long ſpeech to the King in proteſtation of his ſervice, which hath fallen out againſt all expreſſion. The 21 the Duke de Anville came from the Court, and went to the Duke of Orleans, acquinting him that it was his Majeſties pleaſure that he ſhould go to Limours, and withal to ſign a diſſertion from the Prince of Conde, for having more to do with him or his party; which if he re<g ref="char:EOLhyphen"/>fuſe, to depart the City in 24 hours; <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd in default there<g ref="char:EOLhyphen"/>of, that his Majeſty would ſend a Regiment of the Guards to force him to obey that order: his Highneſs abſolutely refuſed to ſign any thing againſt the Prince, chuſing ra<g ref="char:EOLhyphen"/>ther to accept the ſecond, and ſo departed that afternoon, and went with a great number of followers to his houſe at Limours: there went our with him, the D, of Beaufort, Rohan, la Rochefaveant, with many other perſons of great rank, who were all commanded to depart the City.</p>
+                  <p>The ſame day (21) the King came to the City about 8 of the clock in the evening, where he was received with great joy and acclamations of the people, with ringing of bells and Bonfires, as is uſually accuſtomed. The 22 all things were made ready in the the Louvre for the ſitting of the King in that Gallery called of the Pictures, the Par<g ref="char:EOLhyphen"/>liament
+<pb n="7" facs="tcp:166335:4"/>of Paris, except ſome nine Members, came up one pair of ſtairs, and that of Pothoiſe another; the King ſate there but little time, and ſpake leſs: onely four remark<g ref="char:EOLhyphen"/>able things were there enacted. Firſt, the Amniſtia or Par<g ref="char:EOLhyphen"/>don, then the excluding ſome Members from ſitting; third<g ref="char:EOLhyphen"/>ly, that the Princes of Conde, Conti, and ot<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers of their party to appear within three certain Law, or fixed days, as alſo to lay down Arms, and bring in his Army to his Majeſty to ſerve according to his command, and upon de<g ref="char:EOLhyphen"/>fault thereof, to be declared Rebel, Traytor, and criminal, <hi>la ſa Majeſtatis,</hi> injoyning all his loving ſubjects to ap<g ref="char:EOLhyphen"/>prehend him with his complices, whereſoever they find them: Laſtly, a Ceſſation or annulling of what had been acted by the Parliament of Paris, ſince the King went from hence, and confirming what had been done by that of Ponthoiſe, and withal forbidding the Parliament for the future to meddle with any States affairs, either concern<g ref="char:EOLhyphen"/>ing his perſon, counſel, or treaſury, but onely to do juſtice to the publique, according as their place required. The Prince of Conde is now at Stenay, and the new Spaniſh Army at S. Quintin, the Duke of Lorrain alſo with his Army not far from hence, they intend to joyn in a body, and to that add the forces under the Duke of Wittem<g ref="char:EOLhyphen"/>bergh, and the Earl of Warſowitz: altogether will make an Army of 30000 fighting men. The Regiment of Va<g ref="char:EOLhyphen"/>lois, who was quartered at Charenton, is now gone to Li<g ref="char:EOLhyphen"/>mours for the ſecurity of his Royal Highneſs. The Duke of Anville is there alſo, ſent from the Court to perſwade his ſaid Highneſs to forſake the Prince and his party, the which as yet he will not do. The princes army is toward Soiſſen, Turene betwixt him and Paris, at Stenlis.</p>
+                  <closer>
+                     <dateline>Paris, <date>Octob. 25. 1652.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:166335:5"/>
+            <p> His Excellency General Blake, having ſent a ſquadron, of ſhips to coaſt the Channel, ſoon received ſome oppo<g ref="char:EOLhyphen"/>ſition from the Hollander, (being 17 in number) who reſolved to fight out their paſſage and freedome, rather then be taken; but after ſome fiery ſalutations, and a blou<g ref="char:EOLhyphen"/>dy diſpute, the Engliſh boarded them, ſeized upon the Captains, and others, and caſt them over-board that were ſlain; and on the 22 inſtant brought them into Plymouth Harbour, from whence an Expreſs came to the Councel of State, on Sabbath day laſt, ſignifying, That God was pleaſed to honour them with another victory, and that they had taken 17 of the Hollanders, but not without ſome loſs. Divers of theſe ſhips were laden with Pitch, Tarr, and Maſts, ſingular commodities for our Naval de<g ref="char:EOLhyphen"/>ſign; Yet notwithſtanding all their loſſes, Mr, Hans is ſtill ſomewhat too imperious; for on Thurſday laſt, di<g ref="char:EOLhyphen"/>vers of them made an attempt even up to our Engliſh ſhore near Yarmouth, and were ſo bold as to land; but the Countrey receiving the Alarm, immediately roſe, and with Fowling-pieces, Clubs, long Bills, and other wea<g ref="char:EOLhyphen"/>pons, fell upon them, forcing them to their Boats faſter then they landed, killed 7, and took 5 priſoners, with the loſſe of one man, and another wounded.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
